@@ -57,7 +57,7 @@ jQuery(document).ready(function() {
 		TweenLite.set(jQuery("#particles"), {rotation: 0.01,force3D: true});
 		
 		for (i = 0; i < density; i++) {
-			spawn( jQuery("<div />", {id:"particle"+i}).addClass("particle" + Math.floor(getRandom(1,4))).appendTo(body) );
+			spawn( jQuery("<div />", {id:"particle"+i}).addClass("particle" + Math.floor(getRandom(1,9))).appendTo(body) );
 		}
 	}
 				
