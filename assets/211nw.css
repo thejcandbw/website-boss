@@ -125,13 +125,13 @@ transform-style: preserve-3d;
 .particle1 {
 max-width:100px;
 max-height:100px;
-background:url(images/feather4.png) no-repeat center !important;
+background:url(images/feather3.png) no-repeat center !important;
 background-size:contain !important;
 }
 .particle2 {
 max-width:150px;
 max-height:150px;
-background:url(images/feather1.png) no-repeat center !important;
+background:url(images/feather4.png) no-repeat center !important;
 background-size:contain !important;
 }
 .particle3 {
@@ -149,7 +149,7 @@ background-size:contain !important;
 .particle5 {
 max-width:180px;
 max-height:180px;
-background:url(images/feather4.png) no-repeat center !important;
+background:url(images/feather1.png) no-repeat center !important;
 background-size:contain !important;
 }
 .particle6 {
@@ -161,13 +161,13 @@ background-size:contain !important;
 .particle7 {
 max-width:180px;
 max-height:180px;
-background:url(images/feather7.png) no-repeat center !important;
+background:url(images/feather4.png) no-repeat center !important;
 background-size:contain !important;
 }
 .particle8 {
 max-width:150px;
 max-height:150px;
-background:url(images/feather3.png) no-repeat center !important;
+background:url(images/feather1.png) no-repeat center !important;
 background-size:contain !important;
 }
 #border-top-left, #border-top-right, #border-bottom-left, #border-bottom-right, #border-top, #border-bottom, #border-left, #border-right {
